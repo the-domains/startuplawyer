@@ -1,0 +1,23 @@
+name: startuplawyer
+favicon: null
+layout_spectrum: 0.7100842846557498
+typography_spectrum: 0.895113687030971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25522551708854735
+  lightness: 0.6314611360430717
+  saturation: 0.9295273497700691
+  rhythmicContrast: 0.3993261717259884
+purpose: []
